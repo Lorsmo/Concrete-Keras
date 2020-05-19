@@ -7,10 +7,10 @@ The dataset is about the compressive strength of different samples of concrete b
 
 <font size = 3>
     
-A. <a href="#item31">Build a baseline model</a>  
-B. <a href="#item32">Normalize the data</a>  
-C. <a href="#item33">Increase the number of epochs</a>  
-D. <a href="#item34">Increase the number of hidden layers</a>   
+A. Build a baseline model 
+B. Normalize the data
+C. Increase the number of epochs 
+D. Increase the number of hidden layers
 E. <a href="#item35">Report</a>
 
 </font>
