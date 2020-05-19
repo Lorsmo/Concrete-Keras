@@ -7,10 +7,10 @@ The dataset is about the compressive strength of different samples of concrete b
 
 <font size = 3>
     
-A. Build a baseline model 
-B. Normalize the data
-C. Increase the number of epochs 
-D. Increase the number of hidden layers
+A. Build a baseline model<br>
+B. Normalize the data<br>
+C. Increase the number of epochs<br>
+D. Increase the number of hidden layers<br>
 E. <a href="#item35">Report</a>
 
 </font>
@@ -34,6 +34,11 @@ E. <a href="#item35">Report</a>
 
 <a id='item35'></a>
 ## E. Report 
+
+A = Baseline model<br>
+B = data normalized<br>
+C = Increase the number of epochs (100)<br>
+D = Increase the number of hidden layers (3)
 
 <table border="1" class="dataframe">
   <thead>
